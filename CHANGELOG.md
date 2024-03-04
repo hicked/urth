@@ -1,6 +1,6 @@
 # CHANGELOG:
 
-Date is in YYYY/MM/DD format.
+Date is in DD/MM/YYYY format.
 
 **v.A.B.C**
 
@@ -12,7 +12,7 @@ Date is in YYYY/MM/DD format.
 
 **D**: Patch / Very Minor Thing
 
-## [v.1.0.3] - 2024-01-05
+## [v.0.0.1] - 03-03- 2024
 
 **Author:** Antoine
 -   Created repository
